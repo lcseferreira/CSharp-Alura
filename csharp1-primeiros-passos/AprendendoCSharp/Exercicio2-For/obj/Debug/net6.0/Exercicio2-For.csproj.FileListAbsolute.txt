@@ -1,0 +1,14 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\bin\Debug\net6.0\Exercicio2-For.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\bin\Debug\net6.0\Exercicio2-For.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\bin\Debug\net6.0\Exercicio2-For.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\bin\Debug\net6.0\Exercicio2-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\bin\Debug\net6.0\ref\Exercicio2-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\bin\Debug\net6.0\Exercicio2-For.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\ref\Exercicio2-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\Exercicio2-For\obj\Debug\net6.0\Exercicio2-For.genruntimeconfig.cache
