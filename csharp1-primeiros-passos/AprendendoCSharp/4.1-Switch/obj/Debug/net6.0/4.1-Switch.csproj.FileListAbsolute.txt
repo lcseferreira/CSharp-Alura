@@ -1,0 +1,14 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\bin\Debug\net6.0\4.1-Switch.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\bin\Debug\net6.0\4.1-Switch.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\bin\Debug\net6.0\4.1-Switch.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\bin\Debug\net6.0\4.1-Switch.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\bin\Debug\net6.0\ref\4.1-Switch.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\bin\Debug\net6.0\4.1-Switch.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\ref\4.1-Switch.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4.1-Switch\obj\Debug\net6.0\4.1-Switch.genruntimeconfig.cache

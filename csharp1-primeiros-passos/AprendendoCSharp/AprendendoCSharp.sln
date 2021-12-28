@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Condicionais", "4-Condici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1-Condicionais", "Exercicio1-Condicionais\Exercicio1-Condicionais.csproj", "{8F254AC0-EF96-4652-B4CD-1E1B2FCE3FEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1-Switch", "4.1-Switch\4.1-Switch.csproj", "{1E124BFD-3FAA-4CE0-81F6-F07AD04EBFC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8F254AC0-EF96-4652-B4CD-1E1B2FCE3FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F254AC0-EF96-4652-B4CD-1E1B2FCE3FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F254AC0-EF96-4652-B4CD-1E1B2FCE3FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E124BFD-3FAA-4CE0-81F6-F07AD04EBFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E124BFD-3FAA-4CE0-81F6-F07AD04EBFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E124BFD-3FAA-4CE0-81F6-F07AD04EBFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E124BFD-3FAA-4CE0-81F6-F07AD04EBFC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
