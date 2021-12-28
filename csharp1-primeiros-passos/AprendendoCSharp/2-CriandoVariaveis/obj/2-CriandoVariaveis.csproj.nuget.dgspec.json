@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
+    "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
+    "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectUniqueName": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "projectName": "2-CriandoVariaveis",
-        "projectPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+        "projectPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
         "packagesPath": "C:\\Users\\lcsef\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\obj\\",
+        "outputPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

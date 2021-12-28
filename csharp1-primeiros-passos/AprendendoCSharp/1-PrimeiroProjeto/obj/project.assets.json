@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
       "projectName": "1-PrimeiroProjeto",
-      "projectPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+      "projectPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\lcsef\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\cshap1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\obj\\",
+      "outputPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

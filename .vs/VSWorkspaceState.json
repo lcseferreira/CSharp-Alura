@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\csharp1-primeiros-passos",
+    "\\csharp1-primeiros-passos\\AprendendoCSharp",
+    "\\csharp1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto",
+    "\\csharp1-primeiros-passos\\AprendendoCSharp\\2-CriandoVariaveis"
   ],
+  "SelectedNode": "\\csharp1-primeiros-passos\\AprendendoCSharp\\1-PrimeiroProjeto\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

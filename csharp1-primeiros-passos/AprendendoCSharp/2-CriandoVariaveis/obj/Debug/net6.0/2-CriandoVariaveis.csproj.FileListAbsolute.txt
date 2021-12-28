@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\ref\2-CriandoVariaveis.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CriandoVariaveis.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.genruntimeconfig.cache
