@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a834991f-0618-4848-930e-5c417be93859": {
+      "ProjectGuid": "a834991f-0618-4848-930e-5c417be93859",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "a03538bf-8a62-4788-aee3-f7ddb38cd530": {
+      "ProjectGuid": "a03538bf-8a62-4788-aee3-f7ddb38cd530",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

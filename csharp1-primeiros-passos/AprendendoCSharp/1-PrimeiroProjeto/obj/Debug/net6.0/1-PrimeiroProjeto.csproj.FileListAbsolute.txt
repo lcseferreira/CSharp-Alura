@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\ref\1-PrimeiroProjeto.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\net6.0\1-PrimeiroProjeto.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\ref\1-PrimeiroProjeto.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\cshap1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\net6.0\1-PrimeiroProjeto.genruntimeconfig.cache
