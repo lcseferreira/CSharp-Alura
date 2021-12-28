@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\4-Condicionais\\4.1-Condicionais.csproj",
-      "projectName": "4.1-Condicionais",
-      "projectPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\4-Condicionais\\4.1-Condicionais.csproj",
+      "projectUniqueName": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\4-Condicionais\\4-If.csproj",
+      "projectName": "4-If",
+      "projectPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\4-Condicionais\\4-If.csproj",
       "packagesPath": "C:\\Users\\lcsef\\.nuget\\packages\\",
       "outputPath": "C:\\Cursos\\csharp\\csharp-alura\\ws-csharp-alura\\csharp1-primeiros-passos\\AprendendoCSharp\\4-Condicionais\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\bin\Debug\net6.0\5-While.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\bin\Debug\net6.0\5-While.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\bin\Debug\net6.0\5-While.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\bin\Debug\net6.0\5-While.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\bin\Debug\net6.0\ref\5-While.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\bin\Debug\net6.0\5-While.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.csproj.AssemblyReference.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\ref\5-While.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\5-CalculaPoupanca\obj\Debug\net6.0\5-While.genruntimeconfig.cache

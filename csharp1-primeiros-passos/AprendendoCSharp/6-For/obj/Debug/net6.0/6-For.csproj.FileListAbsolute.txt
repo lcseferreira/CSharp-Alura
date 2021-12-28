@@ -1,0 +1,14 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\bin\Debug\net6.0\6-For.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\bin\Debug\net6.0\6-For.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\bin\Debug\net6.0\6-For.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\bin\Debug\net6.0\6-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\bin\Debug\net6.0\ref\6-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\bin\Debug\net6.0\6-For.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\ref\6-For.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\6-For\obj\Debug\net6.0\6-For.genruntimeconfig.cache
