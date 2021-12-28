@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\bin\Debug\net6.0\4-Condicionais.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\bin\Debug\net6.0\4-Condicionais.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\bin\Debug\net6.0\4-Condicionais.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\bin\Debug\net6.0\4-Condicionais.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\bin\Debug\net6.0\ref\4-Condicionais.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\bin\Debug\net6.0\4-Condicionais.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\ref\4-Condicionais.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.genruntimeconfig.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp1-primeiros-passos\AprendendoCSharp\4-Condicionais\obj\Debug\net6.0\4-Condicionais.csproj.AssemblyReference.cache
