@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\bin\Debug\net6.0\04-ByteBank.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\bin\Debug\net6.0\04-ByteBank.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\bin\Debug\net6.0\04-ByteBank.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\bin\Debug\net6.0\04-ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\bin\Debug\net6.0\ref\04-ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\bin\Debug\net6.0\04-ByteBank.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.csproj.AssemblyReference.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\ref\04-ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp2-poo\ByteBank\04-ByteBank\obj\Debug\net6.0\04-ByteBank.genruntimeconfig.cache
