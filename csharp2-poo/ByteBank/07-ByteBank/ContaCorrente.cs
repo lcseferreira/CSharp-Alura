@@ -20,6 +20,7 @@ namespace _07_ByteBank
 
         public int Numero { get; set; }
 
+        // Campo _private para aplicar regra de negócio no get/set
         private double _saldo;
 
         // Getter e Setter (o set possue um propriedade chamada 'value' que representa o parâmetro) 

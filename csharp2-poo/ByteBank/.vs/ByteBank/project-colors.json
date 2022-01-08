@@ -15,7 +15,32 @@
       "ProjectGuid": "8235aad2-592a-4c34-9fb0-cf258f5e339f",
       "DisplayName": "03-ByteBank",
       "ColorIndex": 2
+    },
+    "55ad4f1f-fa69-41c0-a757-ac976df865cc": {
+      "ProjectGuid": "55ad4f1f-fa69-41c0-a757-ac976df865cc",
+      "DisplayName": "04-ByteBank",
+      "ColorIndex": 3
+    },
+    "b6a1c77b-3f64-4d63-97df-853ee6b3205c": {
+      "ProjectGuid": "b6a1c77b-3f64-4d63-97df-853ee6b3205c",
+      "DisplayName": "05-ByteBank",
+      "ColorIndex": 4
+    },
+    "5ce9689c-03b4-4625-a7da-9dbad5301820": {
+      "ProjectGuid": "5ce9689c-03b4-4625-a7da-9dbad5301820",
+      "DisplayName": "06-ByteBank",
+      "ColorIndex": 5
+    },
+    "53f0ff33-9120-4325-97a4-881a95c116f7": {
+      "ProjectGuid": "53f0ff33-9120-4325-97a4-881a95c116f7",
+      "DisplayName": "07-ByteBank",
+      "ColorIndex": 6
+    },
+    "c096ff57-5bc6-49e6-bd71-ef1e4aaeafd4": {
+      "ProjectGuid": "c096ff57-5bc6-49e6-bd71-ef1e4aaeafd4",
+      "DisplayName": "07-ByteBank",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 8
 }
