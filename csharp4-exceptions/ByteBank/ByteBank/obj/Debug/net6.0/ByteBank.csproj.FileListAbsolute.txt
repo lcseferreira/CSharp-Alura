@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\bin\Debug\net6.0\ref\ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp4-exceptions\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
