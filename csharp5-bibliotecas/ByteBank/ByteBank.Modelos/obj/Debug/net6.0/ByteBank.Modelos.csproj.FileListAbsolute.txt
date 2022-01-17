@@ -1,0 +1,14 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ref\ByteBank.Modelos.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ref\ByteBank.Modelos.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.xml
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.xml
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp5-bibliotecas\ByteBank\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.csproj.AssemblyReference.cache

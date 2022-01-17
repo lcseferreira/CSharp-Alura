@@ -1,0 +1,14 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\bin\Debug\net6.0\Object.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\bin\Debug\net6.0\Object.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\bin\Debug\net6.0\Object.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\bin\Debug\net6.0\Object.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\bin\Debug\net6.0\ref\Object.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\bin\Debug\net6.0\Object.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\ref\Object.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp6-string-object\Object\Object\obj\Debug\net6.0\Object.genruntimeconfig.cache
