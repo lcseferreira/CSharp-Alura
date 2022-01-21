@@ -1,0 +1,15 @@
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\bin\Debug\net6.0\ref\Arrays.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Cursos\csharp\csharp-alura\ws-csharp-alura\csharp7-arrays-lists\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
