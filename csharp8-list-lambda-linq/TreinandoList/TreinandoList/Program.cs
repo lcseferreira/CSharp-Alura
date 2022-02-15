@@ -148,7 +148,29 @@ foreach (var conta in contasOrdenadasPorAgencia)
     {
         Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
     }
-
-
 }
+
+
+// Where
+var contasWhere = new List<ContaCorrente>()
+{
+    new ContaCorrente(12345, 10),
+    new ContaCorrente(54123, 18),
+    null,
+    new ContaCorrente(11111, 14),
+    new ContaCorrente(67734, 12),
+    new ContaCorrente(34563, 16),
+    null
+};
+
+Console.WriteLine();
+
+// Lista sem nulos e ordenada (Where com OrderBy)
+var contasNaoNulas = contasWhere.Where(conta => conta != null).OrderBy(conta => conta.Numero);
+
+foreach (var conta in contasNaoNulas)
+{
+    Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
+}
+
 
