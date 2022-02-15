@@ -166,7 +166,9 @@ var contasWhere = new List<ContaCorrente>()
 Console.WriteLine();
 
 // Lista sem nulos e ordenada (Where com OrderBy)
-var contasNaoNulas = contasWhere.Where(conta => conta != null).OrderBy(conta => conta.Numero);
+var contasNaoNulas = contasWhere.
+    Where(conta => conta != null).
+    OrderBy(conta => conta.Numero);
 
 foreach (var conta in contasNaoNulas)
 {
