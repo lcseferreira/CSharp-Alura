@@ -27,3 +27,4 @@ C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp8-list-lambda-linq\Treina
 C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp8-list-lambda-linq\TreinandoList\TreinandoList\obj\Debug\net6.0\ref\TreinandoList.dll
 C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp8-list-lambda-linq\TreinandoList\TreinandoList\obj\Debug\net6.0\TreinandoList.pdb
 C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp8-list-lambda-linq\TreinandoList\TreinandoList\obj\Debug\net6.0\TreinandoList.genruntimeconfig.cache
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp8-list-lambda-linq\TreinandoList\TreinandoList\obj\Debug\net6.0\TreinandoList.csproj.AssemblyReference.cache

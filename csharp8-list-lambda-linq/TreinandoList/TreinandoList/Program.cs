@@ -4,7 +4,7 @@
 
 using TreinandoList;
 
-List<int> ages = new List<int>();
+var ages = new List<int>();
 
 // Adicionando itens na lista 
 ages.Add(23);
@@ -47,6 +47,16 @@ nomes.AdicionarVarios<string>("Lucas", "Lara", "Eduardo");
 // Também podemos usar assim, pois AdicionarVarios<T>(this List<T>...)
 nomes.AdicionarVarios("Renata", "Maria");
 
+
+foreach (var nome in nomes)
+{
+    Console.WriteLine(nome);
+}
+
+Console.WriteLine();
+
+// Ordenação de listas
+nomes.Sort();
 
 foreach (var nome in nomes)
 {
