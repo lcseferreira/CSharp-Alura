@@ -15,10 +15,13 @@ namespace TreinandoList.Comparers
             if (x == null) return 1;
             if (y == null) return -1;
 
-            if (x.Agencia < y.Agencia) return -1;
-            if (x.Agencia > y.Agencia) return 1;
+            // Utilizando o CompareTo do .NET
+            return x.Agencia.CompareTo(y.Agencia);
 
-            return 0;
+            //if (x.Agencia < y.Agencia) return -1;
+            //if (x.Agencia > y.Agencia) return 1;
+
+            //return 0;
         }
     }
 }
