@@ -1,6 +1,7 @@
 ﻿/*** Treinando List<> no .NET ***/
 
 // Criando uma lista - List<GENERIC>
+
 using TreinandoList;
 
 List<int> ages = new List<int>();
@@ -27,7 +28,7 @@ foreach(int age in ages) {
 ages.AddRange(new int[] { 45, 55, 23, 9 });
 
 // Utilizando um método de extensão
-ages.AdicionarVarios(14, 20, 33, 12);
+ages.AdicionarVarios<int>(14, 20, 33, 12);
 
 Console.WriteLine();
 
@@ -36,5 +37,18 @@ foreach (int age in ages)
     Console.WriteLine($"Age: {age}");
 }
 
+Console.WriteLine();
+
+// Utilizando método de extensão genérico
+var nomes = new List<string>();
+
+nomes.AdicionarVarios<string>("Lucas", "Lara", "Eduardo");
+
+// Também podemos usar assim, pois AdicionarVarios<T>(this List<T>...)
+nomes.AdicionarVarios("Renata", "Maria");
 
 
+foreach (var nome in nomes)
+{
+    Console.WriteLine(nome);
+}
