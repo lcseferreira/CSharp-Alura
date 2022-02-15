@@ -100,26 +100,55 @@ var contasOrderBy = new List<ContaCorrente>()
 {
     new ContaCorrente(12345, 10),
     new ContaCorrente(54123, 18),
+    null,
     new ContaCorrente(11111, 14),
     new ContaCorrente(67734, 12),
-    new ContaCorrente(34563, 16)
+    new ContaCorrente(34563, 16),
+    null
 };
 
 // Ordenando pelo número da conta
-var contasOrdenadasPorNumero = contasOrderBy.OrderBy(conta => conta.Numero);
-
-foreach(var conta in contasOrdenadasPorNumero)
+var contasOrdenadasPorNumero = contasOrderBy.OrderBy(conta =>
 {
+    // Se a conta for null, vamos manda-lá pro final
+    if (conta == null)
+    {
+        return int.MaxValue;
+    }
+    return conta.Numero;
+});
+
+foreach (var conta in contasOrdenadasPorNumero)
+{
+    if (conta == null)
+    {
+        Console.WriteLine("Conta nula");
+        continue;
+    };
+
     Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
 }
 
 Console.WriteLine();
 
 // Ordenando pela agência da conta
-var contasOrdenadasPorAgencia = contasOrderBy.OrderBy(conta => conta.Agencia);
+var contasOrdenadasPorAgencia = contasOrderBy.OrderBy(conta =>
+{
+    // Se a conta for null, vamos manda-lá pro final
+    if (conta == null)
+    {
+        return int.MaxValue;
+    }
+    return conta.Agencia;
+});
 
 foreach (var conta in contasOrdenadasPorAgencia)
 {
-    Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
+    if (conta != null)
+    {
+        Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
+    }
+
+
 }
 
