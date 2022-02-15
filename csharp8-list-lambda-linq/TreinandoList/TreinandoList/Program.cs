@@ -3,6 +3,7 @@
 // Criando uma lista - List<GENERIC>
 
 using TreinandoList;
+using TreinandoList.Comparers;
 
 var ages = new List<int>();
 
@@ -20,7 +21,8 @@ for (int i = 0; i < ages.Count; i++)
 Console.WriteLine();
 
 // foreach em List
-foreach(int age in ages) {
+foreach (int age in ages)
+{
     Console.WriteLine($"Age: {age}");
 }
 
@@ -61,4 +63,32 @@ nomes.Sort();
 foreach (var nome in nomes)
 {
     Console.WriteLine(nome);
+}
+
+Console.WriteLine();
+
+// IComparable
+var contas = new List<ContaCorrente>()
+{
+    new ContaCorrente(12345, 12),
+    new ContaCorrente(99999, 14),
+    new ContaCorrente(12311, 11),
+    new ContaCorrente(89930, 10),
+};
+
+contas.Sort();
+
+foreach (var conta in contas)
+{
+    Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
+}
+
+Console.WriteLine();
+
+// ICompare
+contas.Sort(new ComparadorContaCorrenteAgencia());
+
+foreach (var conta in contas)
+{
+    Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
 }
