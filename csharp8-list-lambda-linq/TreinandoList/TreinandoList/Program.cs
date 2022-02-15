@@ -92,3 +92,34 @@ foreach (var conta in contas)
 {
     Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
 }
+
+Console.WriteLine();
+
+// OrderBy
+var contasOrderBy = new List<ContaCorrente>()
+{
+    new ContaCorrente(12345, 10),
+    new ContaCorrente(54123, 18),
+    new ContaCorrente(11111, 14),
+    new ContaCorrente(67734, 12),
+    new ContaCorrente(34563, 16)
+};
+
+// Ordenando pelo número da conta
+var contasOrdenadasPorNumero = contasOrderBy.OrderBy(conta => conta.Numero);
+
+foreach(var conta in contasOrdenadasPorNumero)
+{
+    Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
+}
+
+Console.WriteLine();
+
+// Ordenando pela agência da conta
+var contasOrdenadasPorAgencia = contasOrderBy.OrderBy(conta => conta.Agencia);
+
+foreach (var conta in contasOrdenadasPorAgencia)
+{
+    Console.WriteLine($"Número: {conta.Numero}, Agência: {conta.Agencia}");
+}
+
