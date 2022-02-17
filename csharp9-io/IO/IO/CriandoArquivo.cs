@@ -34,4 +34,24 @@ partial class Program
             escritor.Write("456,12345,7728.98,Lucas Ferreira");
         }
     }
+
+    static void CriarArquivoEscreverNaHora()
+    {
+        var caminhoNovoArquivo = "flush.txt";
+
+        using (var fluxoArquivo = new FileStream(caminhoNovoArquivo, FileMode.Create))
+        using (var escritor = new StreamWriter(fluxoArquivo))
+        {
+            for (int i = 0; i < 100000; i++)
+            {
+                escritor.WriteLine($"Linha {i}");
+
+                // Despeja o buffer para o Stream
+                escritor.Flush();
+
+                Console.WriteLine($"Linha {i} escrita no arquivo");
+                Console.ReadLine();
+            }
+        }
+    }
 }

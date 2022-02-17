@@ -7,5 +7,7 @@ partial class Program
         //CriarArquivo();
         CriarArquivoWriter();
         Console.WriteLine("Aplicação finalizada!");
+
+        CriarArquivoEscreverNaHora();
     }
 }
