@@ -16,7 +16,7 @@ using (var fluxoArquivo = new FileStream(enderecoArquivo, FileMode.Open))
     {
         // Read(array de bytes para gravar informações, índice de preenchimento, quantidade de bytes do array) 
         numeroBytesLidos = fluxoArquivo.Read(buffer, 0, 1024);
-        EscreverBuffer(buffer);
+        EscreverBuffer(buffer, numeroBytesLidos);
     }
 
     // Fechando o arquivo
@@ -26,21 +26,15 @@ using (var fluxoArquivo = new FileStream(enderecoArquivo, FileMode.Open))
 
 
 
-
-
-
-
-
-
 // Classe estática para escrever meus bytes
-static void EscreverBuffer(byte[] buffer)
+static void EscreverBuffer(byte[] buffer, int bytesLidos)
 {
     // Codificador de UTF-8
     //var utf8 = Encoding.UTF8;
     //var utf8 = new UTF8Encoding();
     var utf8 = Encoding.Default;
 
-    var texto = utf8.GetString(buffer);
+    var texto = utf8.GetString(buffer, 0, bytesLidos);
     Console.Write(texto);
 
     //foreach (var myByte in buffer)
