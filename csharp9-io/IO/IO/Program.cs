@@ -1,4 +1,5 @@
 ﻿using System.IO; // IO = Input Output (Entrada e Saída)
+using System.Text;
 
 /*** Criando um FileStream ***/
 
@@ -25,8 +26,16 @@ while (numeroBytesLidos != 0) // Quando for 0, significa que acabou a leitura
 // Classe estática para escrever meus bytes
 static void EscreverBuffer(byte[] buffer)
 {
-    foreach (var myByte in buffer)
-    {
-        Console.Write($"{myByte} ");
-    }
+    // Codificador de UTF-8
+    //var utf8 = Encoding.UTF8;
+    //var utf8 = new UTF8Encoding();
+    var utf8 = Encoding.Default;
+
+    var texto = utf8.GetString(buffer);
+    Console.Write(texto);
+
+    //foreach (var myByte in buffer)
+    //{
+    //    Console.Write($"{myByte} ");
+    //}
 }
