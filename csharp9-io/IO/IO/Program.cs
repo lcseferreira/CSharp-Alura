@@ -1,44 +1,24 @@
-﻿using System.IO; // IO = Input Output (Entrada e Saída)
-using System.Text;
-
-/*** Criando um FileStream ***/
-
-var enderecoArquivo = "contas.txt";
-
-// FileStream(endereco, ação) - Depois que usar, será chamado o Dispose
-using (var fluxoArquivo = new FileStream(enderecoArquivo, FileMode.Open))
+﻿partial class Program
 {
-    // buffer = usado para guardar informações temporárias
-    var buffer = new byte[1024]; // 1 kb
-    var numeroBytesLidos = -1;
-
-    while (numeroBytesLidos != 0) // Quando for 0, significa que acabou a leitura
+    static void Main(string[] args)
     {
-        // Read(array de bytes para gravar informações, índice de preenchimento, quantidade de bytes do array) 
-        numeroBytesLidos = fluxoArquivo.Read(buffer, 0, 1024);
-        EscreverBuffer(buffer, numeroBytesLidos);
+        var enderecoArquivo = "Contas.txt";
+
+        using (var fluxoArquivo = new FileStream(enderecoArquivo, FileMode.Open)) // Abrindo o arquivo
+        using (var leitorStream = new StreamReader(fluxoArquivo)) // Leitor de Stream)
+        {
+            while (!leitorStream.EndOfStream)
+            {
+                // Lendo linha por linha
+                var leitorLinha = leitorStream.ReadLine();
+                Console.WriteLine(leitorLinha);
+            }
+        }
+        // Lendo até o final - Usar com cuidado
+        //var leitorFim = leitorStream.ReadToEnd();
+        //Console.WriteLine(leitorFim);
     }
 
-    // Fechando o arquivo
-    //fluxoArquivo.Close();
+
 }
 
-
-
-
-// Classe estática para escrever meus bytes
-static void EscreverBuffer(byte[] buffer, int bytesLidos)
-{
-    // Codificador de UTF-8
-    //var utf8 = Encoding.UTF8;
-    //var utf8 = new UTF8Encoding();
-    var utf8 = Encoding.Default;
-
-    var texto = utf8.GetString(buffer, 0, bytesLidos);
-    Console.Write(texto);
-
-    //foreach (var myByte in buffer)
-    //{
-    //    Console.Write($"{myByte} ");
-    //}
-}
