@@ -11,7 +11,7 @@ namespace IO.Models
         public int Numero { get; set; }
         public int Agencia { get; set; }
         public double Saldo { get; private set; }
-        public Cliente Cliente { get; set; }
+        public Cliente Titular { get; set; }
 
         public ContaCorrente(int agencia, int numero)
         {
