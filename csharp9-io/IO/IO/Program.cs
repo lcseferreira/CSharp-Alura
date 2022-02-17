@@ -9,8 +9,18 @@ partial class Program
         //CriarArquivoEscreverNaHora();
         //EscritaBinaria();
         //LeituraBinaria();
+        //UsarStreamDeEntrada();
 
-        UsarStreamDeEntrada();
+        var linhas = File.ReadAllLines("contas.txt");
+
+        Console.WriteLine(linhas.Length);
+
+        foreach (var row in linhas)
+        {
+            Console.WriteLine(row);
+        }
         Console.WriteLine("Aplicação finalizada!");
+
+
     }
 }
