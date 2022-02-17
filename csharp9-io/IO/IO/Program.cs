@@ -5,9 +5,11 @@ partial class Program
     static void Main(string[] args)
     {
         //CriarArquivo();
-        CriarArquivoWriter();
-        Console.WriteLine("Aplicação finalizada!");
+        //CriarArquivoWriter();
+        //CriarArquivoEscreverNaHora();
 
-        CriarArquivoEscreverNaHora();
+        EscritaBinaria();
+        LeituraBinaria();
+        Console.WriteLine("Aplicação finalizada!");
     }
 }
