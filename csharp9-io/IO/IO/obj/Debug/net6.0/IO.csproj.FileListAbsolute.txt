@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\bin\Debug\net6.0\IO.exe
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\bin\Debug\net6.0\IO.deps.json
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\bin\Debug\net6.0\IO.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\bin\Debug\net6.0\IO.dll
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\bin\Debug\net6.0\ref\IO.dll
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\bin\Debug\net6.0\IO.pdb
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.dll
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\ref\IO.dll
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.pdb
+C:\Users\lcsef\Documents\Workspaces\csharp-alura\csharp9-io\IO\IO\obj\Debug\net6.0\IO.genruntimeconfig.cache
