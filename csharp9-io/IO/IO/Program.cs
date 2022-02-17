@@ -7,9 +7,10 @@ partial class Program
         //CriarArquivo();
         //CriarArquivoWriter();
         //CriarArquivoEscreverNaHora();
+        //EscritaBinaria();
+        //LeituraBinaria();
 
-        EscritaBinaria();
-        LeituraBinaria();
+        UsarStreamDeEntrada();
         Console.WriteLine("Aplicação finalizada!");
     }
 }
